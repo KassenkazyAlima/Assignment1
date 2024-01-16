@@ -1,6 +1,7 @@
 import java.util.ArrayList;
 import package1.Point;
 import package1.Shape;
+
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Scanner;

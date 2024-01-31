@@ -1,3 +1,4 @@
+
 package package1;
 import static java.lang.Math.sqrt;
 
@@ -6,9 +7,10 @@ public class Point {
     private double y;
 
     public Point(double x, double y){ // constructor having both parameters
-        this.x = y;
+        this.x = x;
         this.y = y;
     }
+
 
     public double getDistance(Point dest){
         double x1 = this.x;
